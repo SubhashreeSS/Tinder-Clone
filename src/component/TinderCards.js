@@ -39,6 +39,12 @@ function TinderCards() {
       age:'27',
       job:'Full-Stack Web Developer',
       url:'https://xsgames.co/randomusers/assets/avatars/male/74.jpg'
+    },
+    {
+      name: 'Shafi',
+      age:'26',
+      job: 'Supply Chain Planner',
+      url:'https://www.facebook.com/photo/?fbid=117420994478496&set=pcb.117422007811728'
     }
 
   ]);
