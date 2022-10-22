@@ -1,6 +1,7 @@
 import React from 'react'
 import TinderCard from 'react-tinder-card';
 import './TinderCards.css'
+import CardData from './CardData'
 
 function TinderCards() {
 
