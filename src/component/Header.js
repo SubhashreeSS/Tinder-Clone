@@ -10,7 +10,7 @@ function Header() {
       <IconButton className='header-icons' fontSize='large'>
         <PersonIcon fontSize='large' />
       </IconButton>
-      <img src='https://brandlogos.net/wp-content/uploads/2021/09/tinder-flame-logo-768x768.png'/>
+      <img src='https://brandlogos.net/wp-content/uploads/2021/09/tinder-flame-logo-768x768.png'  alt="Tinder Logo"/>
       <IconButton className='header-icons' fontSize='large'>
         <ForumIcon fontSize='large' />
       </IconButton>
