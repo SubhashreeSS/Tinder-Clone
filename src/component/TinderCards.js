@@ -44,7 +44,7 @@ function TinderCards() {
       name: 'Shafi',
       age:'26',
       job: 'Supply Chain Planner',
-      url:'https://www.facebook.com/photo/?fbid=117420994478496&set=pcb.117422007811728'
+      url:'https://scontent.fblr1-7.fna.fbcdn.net/v/t39.30808-6/312454335_117420991145163_4804843518897472444_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=LncH1m8wc4AAX91H9gl&_nc_ht=scontent.fblr1-7.fna&oh=00_AT-y0DuRroYdrkcrbPpRDbt2eCLr-0FCVw7vLPm81fUaFA&oe=6357A04C'
     }
 
   ]);
