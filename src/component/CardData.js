@@ -39,7 +39,7 @@ const array=[
     name: 'Shafi',
     age:'26',
     job: 'Supply Chain Planner',
-    url:'https://www.facebook.com/photo/?fbid=1131255734157682&set=pcb.1131255790824343'
+    url:'https://scontent.fblr1-4.fna.fbcdn.net/v/t39.30808-6/301993512_1131255724157683_1949015540227540384_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=uXQVg75QTC0AX9xXn1m&_nc_ht=scontent.fblr1-4.fna&oh=00_AfBDxNlO0ALRXn_kfSx0hBWlP5Jcd5MTYUbr48cCpBQIxg&oe=63C73A70'
   }
 ];
 
