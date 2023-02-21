@@ -37,9 +37,15 @@ const array=[
   },
   {
     name: 'Shafi',
-    age:'26',
+    age:'27',
     job: 'Supply Chain Planner',
-    url:'https://scontent.fblr1-4.fna.fbcdn.net/v/t39.30808-6/301993512_1131255724157683_1949015540227540384_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=uXQVg75QTC0AX9xXn1m&_nc_ht=scontent.fblr1-4.fna&oh=00_AfBDxNlO0ALRXn_kfSx0hBWlP5Jcd5MTYUbr48cCpBQIxg&oe=63C73A70'
+    url:'https://scontent.fblr1-8.fna.fbcdn.net/v/t39.30808-6/301993512_1131255724157683_1949015540227540384_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=JdzAjLrwRJ8AX89umUl&_nc_ht=scontent.fblr1-8.fna&oh=00_AfD7GGLw3ahgvyhBVmvsmDfa0T7FZZtHwBEDqKRSM3mJUA&oe=63F4B630'
+  },
+  {
+    name:'Subhadipta',
+    age:'26',
+    job:'Data Scientist',
+    url:'https://scontent.fblr1-3.fna.fbcdn.net/v/t39.30808-6/330627716_1868388963539716_3288704693614869672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=AsjbOPxzGLwAX8IiUnv&_nc_ht=scontent.fblr1-3.fna&oh=00_AfAxOJqisyG7rcu1GpodAmmiuyT1vP0OPqdU6o-DckYFrQ&oe=63FA075A'
   }
 ];
 
