@@ -39,7 +39,7 @@ const array=[
     name: 'Shafi',
     age:'27',
     job: 'Supply Chain Planner',
-    url:'https://scontent.fblr1-8.fna.fbcdn.net/v/t39.30808-6/301993512_1131255724157683_1949015540227540384_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=JdzAjLrwRJ8AX89umUl&_nc_ht=scontent.fblr1-8.fna&oh=00_AfD7GGLw3ahgvyhBVmvsmDfa0T7FZZtHwBEDqKRSM3mJUA&oe=63F4B630'
+    url:'src/component/Shafi.jpg'
   },
   {
     name:'Subhadipta',
