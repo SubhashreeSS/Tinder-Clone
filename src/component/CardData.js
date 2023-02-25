@@ -51,7 +51,7 @@ const array=[
     name:'Subhadipta',
     age:'26',
     job:'Data Scientist',
-    url:'https://scontent.fblr1-3.fna.fbcdn.net/v/t39.30808-6/330627716_1868388963539716_3288704693614869672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=AsjbOPxzGLwAX8IiUnv&_nc_ht=scontent.fblr1-3.fna&oh=00_AfAxOJqisyG7rcu1GpodAmmiuyT1vP0OPqdU6o-DckYFrQ&oe=63FA075A'
+    url:'https://scontent.fblr1-3.fna.fbcdn.net/v/t39.30808-6/330627716_1868388963539716_3288704693614869672_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=Bf8_LSHQaO4AX9uK5bA&_nc_ht=scontent.fblr1-3.fna&oh=00_AfCAvZGb_FCe2bkHTBHHPj1qIRMpy5KwETYYr_Bk32ReYg&oe=63FFF61A'
   }
 ];
 
