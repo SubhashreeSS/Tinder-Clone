@@ -7,12 +7,13 @@ import FavoriteIcons from '@mui/icons-material/Favorite';
 import FlashOnIcon from '@mui/icons-material/FlashOn';
 import IconButton from '@mui/material/IconButton'; 
 
+
 function Footer() {
   return (
     <div className='buttomButtons'>
-      <IconButton className='replay'>
-        <ReplayIcon fontSize='large'/>
-      </IconButton>
+        <IconButton className='replay'>
+          <ReplayIcon fontSize='large'/>
+        </IconButton>
 
       <IconButton className='close'>
         <CloseIcon fontSize='large'/>
